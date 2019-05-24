@@ -1,4 +1,4 @@
-#LogisticsPlateform
+# LogisticsPlateform
 
 Dans le cadre de ma formation de génie informatique à l'UTBM, j'ai réalisé un programme en C permettant la simulation d'une plateforme logistique:
 
